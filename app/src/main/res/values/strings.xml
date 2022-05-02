@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConnectionDemo</string>
+    <string name="title_second">Second Screen</string>
+    <string name="title_first">First Screen</string>
+    <string name="status_online">Back Online</string>
+    <string name="status_no_connection">No Internet Connection</string>
+</resources>
